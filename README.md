@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi everyone 👋
+
+## About me 
+Software Developer 
+Studying Computer Science since 2023 
+Studying Cyber Security since 2020 
+
+
 
 <!--
 **mvtt25/mvtt25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
