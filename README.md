@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hello World!</h1>
 
 ###
 
@@ -13,6 +13,15 @@
 ###
 
 <h2 align="left">whoami</h2>
+
+```javascript
+const whoami = {
+  name: "mvtt25",
+  code: [C, C++, C#, php, HTML, CSS, Javascript, MySQL],
+  learning: ["c-sharp", "unity"],
+  challenge: "I am learning see-sharp",
+}
+```
 
 ###
 
