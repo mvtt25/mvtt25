@@ -1,4 +1,4 @@
-### Hi everyone 👋
+# Hi everyone 👋
 
 ## About me 
 - Software Developer 
