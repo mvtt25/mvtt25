@@ -1,9 +1,9 @@
 ### Hi everyone 👋
 
 ## About me 
-Software Developer 
-Studying Computer Science since 2023 
-Studying Cyber Security since 2020 
+- Software Developer 
+- Studying Computer Science since 2023 
+- Studying Cyber Security since 2020 
 
 
 
