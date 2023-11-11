@@ -17,10 +17,11 @@
 ```javascript
 const whoami = {
   name: "mvtt25",
+  language: "italian, english",
   studying: "Computer Science",
   code: [C, C++, C#, php, HTML, CSS, Javascript, MySQL],
   learning: ["c-sharp", "unity"],
-  challenge: "I am learning see-sharp",
+  challenge: "I am learning see-sharp in a few days",
 }
 ```
 
