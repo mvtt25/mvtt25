@@ -17,7 +17,7 @@
 ```javascript
 const whoami = {
   name: "mvtt25",
-  study: "Computer Science",
+  studying: "Computer Science",
   code: [C, C++, C#, php, HTML, CSS, Javascript, MySQL],
   learning: ["c-sharp", "unity"],
   challenge: "I am learning see-sharp",
@@ -35,7 +35,7 @@ const whoami = {
 ###
 
 <div align="left">
-  
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
