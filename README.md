@@ -14,8 +14,8 @@
 
 <h2 align="left">whoami</h2>
 
-```javascript
-const whoami = {
+```python
+whoami = {
   name: "mvtt25",
   language: "italian, english",
   studying: "Cybersecurity Offensive | OffSec",
