@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">My name is mvtt25 and I'm a software developer, from Italy</p>
-
-###
-
 <h2 align="left">whoami</h2>
 
 ```javascript
@@ -21,6 +17,8 @@ const whoami = {
   name: "mvtt25",
   language: "italian, english",
   studying: "Cybersecurity",
+  main-os: "Arch, MacOs",
+  secondary-os: "WinZoZz",
   working: "Linux Guide for n00bs",
   learning: ["black-arch", "nvim"],
   challenge: "//",
