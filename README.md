@@ -1,5 +1,3 @@
-# whoami
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mvtt25/count.svg?"  />
 </div>
@@ -28,10 +26,6 @@ const whoami = {
 ###
 
 <p align="left"></p>
-
-###
-
-<h2 align="left">More about my study...</h2>
 
 ###
 
