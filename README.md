@@ -19,7 +19,7 @@ const whoami = {
   secondaryos: "WinZoZz",
   working: "Linux Guide for n00bs",
   learning: ["black-arch", "nvim"],
-  challenge: "//",
+  challenge: "200wpm",
 }
 ```
 
